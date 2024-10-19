@@ -15,6 +15,7 @@ Installation:
 Clone this repository:
 
 git clone https://github.com/your-username/yak-shop.git
+
 cd yak-shop
 
 Install dependencies:
